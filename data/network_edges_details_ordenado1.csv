@@ -1,0 +1,10 @@
+source,source_user_id,target,target_user_id,weight
+Dev4,4,Dev9,9,0.861
+Dev1,1,Dev4,4,0.831
+Dev3,3,Dev4,4,0.811
+Dev1,1,Dev9,9,0.795
+Dev9,9,Dev15,15,0.789
+Dev4,4,Dev13,13,0.788
+Dev1,1,Dev15,15,0.784
+Dev4,4,Dev15,15,0.745
+Dev7,7,Dev14,14,0.742

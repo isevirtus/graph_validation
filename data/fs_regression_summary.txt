@@ -1,0 +1,7 @@
+Regression Coefficients (calibrated weights):
+Intercept   = 0.1950
+Alpha (SLF) = 0.3259
+Beta  (OSF) = 0.3130
+Gamma (SLF·OSF) = -0.2487
+
+Mean Absolute Error (MAE) = 0.1077

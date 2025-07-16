@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "Dev1",
+      "user_id": 1,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Cloud",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "Dev3",
+      "user_id": 3,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Data",
+        "AWS Lambda",
+        "Java"
+      ]
+    },
+    {
+      "id": "Dev4",
+      "user_id": 4,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Mobile",
+        "AI",
+        "AWS Lambda",
+        "Python"
+      ]
+    },
+    {
+      "id": "Dev7",
+      "user_id": 7,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Web",
+        "AI",
+        "Mobile",
+        "React",
+        "Python"
+      ]
+    },
+    {
+      "id": "Dev9",
+      "user_id": 9,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Mobile",
+        "Web",
+        "Spring Boot",
+        "Go"
+      ]
+    },
+    {
+      "id": "Dev13",
+      "user_id": 13,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Web",
+        "Mobile",
+        "Cloud",
+        "Node.js",
+        "Go"
+      ]
+    },
+    {
+      "id": "Dev14",
+      "user_id": 14,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Mobile",
+        "AI",
+        "Cloud",
+        "Node.js",
+        "Java"
+      ]
+    },
+    {
+      "id": "Dev15",
+      "user_id": 15,
+      "type": "developer",
+      "contractRoleName": "unspecified",
+      "hardskill": [
+        "Data",
+        "React",
+        "Java"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Dev1",
+      "source_user_id": 1,
+      "target": "Dev4",
+      "target_user_id": 4,
+      "weight": 0.831,
+      "N": 4
+    },
+    {
+      "source": "Dev1",
+      "source_user_id": 1,
+      "target": "Dev9",
+      "target_user_id": 9,
+      "weight": 0.795,
+      "N": 5
+    },
+    {
+      "source": "Dev1",
+      "source_user_id": 1,
+      "target": "Dev15",
+      "target_user_id": 15,
+      "weight": 0.784,
+      "N": 5
+    },
+    {
+      "source": "Dev3",
+      "source_user_id": 3,
+      "target": "Dev4",
+      "target_user_id": 4,
+      "weight": 0.811,
+      "N": 4
+    },
+    {
+      "source": "Dev4",
+      "source_user_id": 4,
+      "target": "Dev9",
+      "target_user_id": 9,
+      "weight": 0.861,
+      "N": 4
+    },
+    {
+      "source": "Dev4",
+      "source_user_id": 4,
+      "target": "Dev13",
+      "target_user_id": 13,
+      "weight": 0.788,
+      "N": 4
+    },
+    {
+      "source": "Dev4",
+      "source_user_id": 4,
+      "target": "Dev15",
+      "target_user_id": 15,
+      "weight": 0.745,
+      "N": 6
+    },
+    {
+      "source": "Dev7",
+      "source_user_id": 7,
+      "target": "Dev14",
+      "target_user_id": 14,
+      "weight": 0.742,
+      "N": 6
+    },
+    {
+      "source": "Dev9",
+      "source_user_id": 9,
+      "target": "Dev15",
+      "target_user_id": 15,
+      "weight": 0.789,
+      "N": 5
+    }
+  ]
+}

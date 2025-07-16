@@ -1,0 +1,732 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Dev 1",
+      "projects": [
+        {
+          "id": "P6",
+          "osf": 0.9,
+          "slf": 0.5
+        },
+        {
+          "id": "P10",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P4",
+          "osf": 0.5,
+          "slf": 0.6
+        },
+        {
+          "id": "P8",
+          "osf": 0.6,
+          "slf": 0.7
+        },
+        {
+          "id": "P11",
+          "osf": 0.8,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Cloud"
+      ],
+      "ecossistema": "React",
+      "linguagens": "JavaScript"
+    },
+    {
+      "id": 2,
+      "name": "Dev 2",
+      "projects": [
+        {
+          "id": "P12",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P8",
+          "osf": 0.6,
+          "slf": 0.4
+        },
+        {
+          "id": "P10",
+          "osf": 0.5,
+          "slf": 0.4
+        }
+      ],
+      "dominio": [
+        "Data",
+        "Cloud",
+        "Mobile"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "Python"
+    },
+    {
+      "id": 3,
+      "name": "Dev 3",
+      "projects": [
+        {
+          "id": "P4",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P9",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P7",
+          "osf": 0.7,
+          "slf": 0.4
+        },
+        {
+          "id": "P6",
+          "osf": 0.9,
+          "slf": 0.7
+        },
+        {
+          "id": "P12",
+          "osf": 0.8,
+          "slf": 0.5
+        }
+      ],
+      "dominio": [
+        "Data"
+      ],
+      "ecossistema": "AWS Lambda",
+      "linguagens": "Java"
+    },
+    {
+      "id": 4,
+      "name": "Dev 4",
+      "projects": [
+        {
+          "id": "P12",
+          "osf": 0.6,
+          "slf": 0.5
+        },
+        {
+          "id": "P4",
+          "osf": 0.6,
+          "slf": 0.7
+        },
+        {
+          "id": "P7",
+          "osf": 0.6,
+          "slf": 0.6
+        },
+        {
+          "id": "P6",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P5",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P11",
+          "osf": 0.7,
+          "slf": 0.6
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "AI"
+      ],
+      "ecossistema": "AWS Lambda",
+      "linguagens": "Python"
+    },
+    {
+      "id": 5,
+      "name": "Dev 5",
+      "projects": [
+        {
+          "id": "P10",
+          "osf": 0.5,
+          "slf": 0.5
+        },
+        {
+          "id": "P12",
+          "osf": 0.5,
+          "slf": 0.8
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P3",
+          "osf": 0.9,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Web"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Go"
+    },
+    {
+      "id": 6,
+      "name": "Dev 6",
+      "projects": [
+        {
+          "id": "P8",
+          "osf": 0.7,
+          "slf": 0.8
+        },
+        {
+          "id": "P10",
+          "osf": 0.6,
+          "slf": 0.8
+        },
+        {
+          "id": "P7",
+          "osf": 0.9,
+          "slf": 0.8
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "Cloud",
+        "Data"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "Go"
+    },
+    {
+      "id": 7,
+      "name": "Dev 7",
+      "projects": [
+        {
+          "id": "P10",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P7",
+          "osf": 0.6,
+          "slf": 0.6
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P1",
+          "osf": 0.7,
+          "slf": 0.7
+        },
+        {
+          "id": "P5",
+          "osf": 0.7,
+          "slf": 0.6
+        },
+        {
+          "id": "P9",
+          "osf": 0.6,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Web",
+        "AI",
+        "Mobile"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Python"
+    },
+    {
+      "id": 8,
+      "name": "Dev 8",
+      "projects": [
+        {
+          "id": "P10",
+          "osf": 0.6,
+          "slf": 0.7
+        },
+        {
+          "id": "P3",
+          "osf": 0.7,
+          "slf": 0.5
+        },
+        {
+          "id": "P7",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P9",
+          "osf": 0.6,
+          "slf": 0.6
+        },
+        {
+          "id": "P1",
+          "osf": 0.5,
+          "slf": 0.4
+        }
+      ],
+      "dominio": [
+        "Cloud",
+        "Mobile",
+        "Web"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Go"
+    },
+    {
+      "id": 9,
+      "name": "Dev 9",
+      "projects": [
+        {
+          "id": "P6",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P2",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P8",
+          "osf": 0.7,
+          "slf": 0.6
+        },
+        {
+          "id": "P10",
+          "osf": 0.5,
+          "slf": 0.5
+        },
+        {
+          "id": "P11",
+          "osf": 0.7,
+          "slf": 0.8
+        },
+        {
+          "id": "P4",
+          "osf": 0.8,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "Web"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "Go"
+    },
+    {
+      "id": 10,
+      "name": "Dev 10",
+      "projects": [
+        {
+          "id": "P10",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P5",
+          "osf": 0.9,
+          "slf": 0.4
+        },
+        {
+          "id": "P7",
+          "osf": 0.5,
+          "slf": 0.6
+        }
+      ],
+      "dominio": [
+        "Web",
+        "Mobile"
+      ],
+      "ecossistema": "Node.js",
+      "linguagens": "JavaScript"
+    },
+    {
+      "id": 11,
+      "name": "Dev 11",
+      "projects": [
+        {
+          "id": "P11",
+          "osf": 0.6,
+          "slf": 0.5
+        },
+        {
+          "id": "P7",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P12",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P1",
+          "osf": 0.9,
+          "slf": 0.5
+        }
+      ],
+      "dominio": [
+        "AI"
+      ],
+      "ecossistema": "AWS Lambda",
+      "linguagens": "JavaScript"
+    },
+    {
+      "id": 12,
+      "name": "Dev 12 ",
+      "projects": [
+        {
+          "id": "P9",
+          "osf": 0.7,
+          "slf": 0.6
+        },
+        {
+          "id": "P10",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P1",
+          "osf": 0.7,
+          "slf": 0.7
+        },
+        {
+          "id": "P2",
+          "osf": 0.7,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Cloud",
+        "AI",
+        "Mobile"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Python"
+    },
+    {
+      "id": 13,
+      "name": "Dev 13",
+      "projects": [
+        {
+          "id": "P5",
+          "osf": 0.5,
+          "slf": 0.8
+        },
+        {
+          "id": "P3",
+          "osf": 0.7,
+          "slf": 0.5
+        },
+        {
+          "id": "P7",
+          "osf": 0.6,
+          "slf": 0.5
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P10",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P12",
+          "osf": 0.8,
+          "slf": 0.4
+        }
+      ],
+      "dominio": [
+        "Web",
+        "Mobile",
+        "Cloud"
+      ],
+      "ecossistema": "Node.js",
+      "linguagens": "Go"
+    },
+    {
+      "id": 14,
+      "name": "Dev 14",
+      "projects": [
+        {
+          "id": "P7",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P1",
+          "osf": 0.6,
+          "slf": 0.5
+        },
+        {
+          "id": "P12",
+          "osf": 0.8,
+          "slf": 0.5
+        },
+        {
+          "id": "P5",
+          "osf": 0.7,
+          "slf": 0.7
+        },
+        {
+          "id": "P10",
+          "osf": 0.7,
+          "slf": 0.8
+        },
+        {
+          "id": "P9",
+          "osf": 0.6,
+          "slf": 0.5
+        },
+        {
+          "id": "P8",
+          "osf": 0.6,
+          "slf": 0.5
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "AI",
+        "Cloud"
+      ],
+      "ecossistema": "Node.js",
+      "linguagens": "Java"
+    },
+    {
+      "id": 15,
+      "name": "Dev 15",
+      "projects": [
+        {
+          "id": "P12",
+          "osf": 0.7,
+          "slf": 0.4
+        },
+        {
+          "id": "P11",
+          "osf": 0.7,
+          "slf": 0.4
+        },
+        {
+          "id": "P10",
+          "osf": 0.6,
+          "slf": 0.6
+        },
+        {
+          "id": "P4",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P6",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P5",
+          "osf": 0.5,
+          "slf": 0.5
+        },
+        {
+          "id": "P3",
+          "osf": 0.6,
+          "slf": 0.8
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Data"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Java"
+    },
+    {
+      "id": 16,
+      "name": "Dev 16",
+      "projects": [
+        {
+          "id": "P9",
+          "osf": 0.8,
+          "slf": 0.7
+        },
+        {
+          "id": "P12",
+          "osf": 0.6,
+          "slf": 0.7
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.6
+        }
+      ],
+      "dominio": [
+        "Mobile"
+      ],
+      "ecossistema": "React",
+      "linguagens": "Go"
+    },
+    {
+      "id": 17,
+      "name": "Dev 17",
+      "projects": [
+        {
+          "id": "P5",
+          "osf": 0.9,
+          "slf": 0.7
+        },
+        {
+          "id": "P9",
+          "osf": 0.5,
+          "slf": 0.8
+        },
+        {
+          "id": "P2",
+          "osf": 0.8,
+          "slf": 0.6
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "Data",
+        "Cloud"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "Python"
+    },
+    {
+      "id": 18,
+      "name": "Dev 18",
+      "projects": [
+        {
+          "id": "P2",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P10",
+          "osf": 0.6,
+          "slf": 0.8
+        },
+        {
+          "id": "P3",
+          "osf": 0.9,
+          "slf": 0.4
+        },
+        {
+          "id": "P8",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P6",
+          "osf": 0.9,
+          "slf": 0.7
+        }
+      ],
+      "dominio": [
+        "Mobile",
+        "Cloud"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "JavaScript"
+    },
+    {
+      "id": 19,
+      "name": "Dev 19",
+      "projects": [
+        {
+          "id": "P11",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P2",
+          "osf": 0.7,
+          "slf": 0.5
+        },
+        {
+          "id": "P3",
+          "osf": 0.5,
+          "slf": 0.4
+        },
+        {
+          "id": "P8",
+          "osf": 0.9,
+          "slf": 0.6
+        },
+        {
+          "id": "P5",
+          "osf": 0.5,
+          "slf": 0.5
+        },
+        {
+          "id": "P10",
+          "osf": 0.8,
+          "slf": 0.5
+        }
+      ],
+      "dominio": [
+        "Data",
+        "Web",
+        "Cloud"
+      ],
+      "ecossistema": "Spring Boot",
+      "linguagens": "Python"
+    },
+    {
+      "id": 20,
+      "name": "Dev 20",
+      "projects": [
+        {
+          "id": "P6",
+          "osf": 0.8,
+          "slf": 0.6
+        },
+        {
+          "id": "P4",
+          "osf": 0.7,
+          "slf": 0.6
+        },
+        {
+          "id": "P1",
+          "osf": 0.6,
+          "slf": 0.7
+        },
+        {
+          "id": "P7",
+          "osf": 0.8,
+          "slf": 0.5
+        }
+      ],
+      "dominio": [
+        "Data",
+        "AI"
+      ],
+      "ecossistema": "Node.js",
+      "linguagens": "Python"
+    }
+  ]
+}

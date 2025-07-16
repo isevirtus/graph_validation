@@ -1,0 +1,54 @@
+
+🔹 Developer Pair: Dev 1 (ID=1) and Dev 4 (ID=4)
+📂 Common Projects: ['P8', 'P6', 'P11', 'P4']
+📊 Avg OSF: 0.712 | Avg SLF: 0.650
+🔢 N = 4 → f(N) = 1.000
+🎯 Final PC = 0.831
+
+🔹 Developer Pair: Dev 1 (ID=1) and Dev 9 (ID=9)
+📂 Common Projects: ['P8', 'P10', 'P11', 'P4', 'P6']
+📊 Avg OSF: 0.720 | Avg SLF: 0.630
+🔢 N = 5 → f(N) = 0.900
+🎯 Final PC = 0.795
+
+🔹 Developer Pair: Dev 1 (ID=1) and Dev 15 (ID=15)
+📂 Common Projects: ['P8', 'P10', 'P11', 'P4', 'P6']
+📊 Avg OSF: 0.730 | Avg SLF: 0.600
+🔢 N = 5 → f(N) = 0.900
+🎯 Final PC = 0.784
+
+🔹 Developer Pair: Dev 3 (ID=3) and Dev 4 (ID=4)
+📂 Common Projects: ['P6', 'P7', 'P12', 'P4']
+📊 Avg OSF: 0.738 | Avg SLF: 0.587
+🔢 N = 4 → f(N) = 1.000
+🎯 Final PC = 0.811
+
+🔹 Developer Pair: Dev 4 (ID=4) and Dev 9 (ID=9)
+📂 Common Projects: ['P8', 'P6', 'P11', 'P4']
+📊 Avg OSF: 0.750 | Avg SLF: 0.675
+🔢 N = 4 → f(N) = 1.000
+🎯 Final PC = 0.861
+
+🔹 Developer Pair: Dev 4 (ID=4) and Dev 13 (ID=13)
+📂 Common Projects: ['P8', 'P5', 'P7', 'P12']
+📊 Avg OSF: 0.688 | Avg SLF: 0.588
+🔢 N = 4 → f(N) = 1.000
+🎯 Final PC = 0.788
+
+🔹 Developer Pair: Dev 4 (ID=4) and Dev 15 (ID=15)
+📂 Common Projects: ['P8', 'P5', 'P11', 'P4', 'P6', 'P12']
+📊 Avg OSF: 0.717 | Avg SLF: 0.592
+🔢 N = 6 → f(N) = 0.800
+🎯 Final PC = 0.745
+
+🔹 Developer Pair: Dev 7 (ID=7) and Dev 14 (ID=14)
+📂 Common Projects: ['P8', 'P9', 'P5', 'P10', 'P7', 'P1']
+📊 Avg OSF: 0.683 | Avg SLF: 0.617
+🔢 N = 6 → f(N) = 0.800
+🎯 Final PC = 0.742
+
+🔹 Developer Pair: Dev 9 (ID=9) and Dev 15 (ID=15)
+📂 Common Projects: ['P8', 'P10', 'P11', 'P4', 'P6']
+📊 Avg OSF: 0.730 | Avg SLF: 0.610
+🔢 N = 5 → f(N) = 0.900
+🎯 Final PC = 0.789
