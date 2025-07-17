@@ -10,7 +10,7 @@ This repository contains:
 
 - `src/`: Python scripts for compatibility score calculation, regression fitting, graph generation, and transformation of data.
 - `data/`: Input/output files used in the validation process.
-- `excel_decalibration.xlsx`: Master spreadsheet containing expert inputs, heatmaps, probabilistic distributions, PC calculations, and the FS regression summary.
+- `expert_calibration_data`: Master spreadsheet containing expert inputs, heatmaps, probabilistic distributions, PC calculations, and the FS regression summary.
 - `PC_levels_Definitions.pdf`: Expert-validated definitions and qualitative criteria for each PC label (e.g., PC_VL, PC_H), with examples and rationale.
 
 ---
@@ -36,7 +36,7 @@ graph_validation/
 │   ├── plot_graph.py
 │   └── transformation_graph_data.py
 │
-├── excel_decalibration.xlsx
+├── expert_calibration_data.xlsx
 └──  PC_Levels_Definitions.pdf
 ```
 
