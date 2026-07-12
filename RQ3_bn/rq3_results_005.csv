@@ -1,0 +1,9 @@
+scenario_id,split,AT,AC,pred_vl,pred_l,pred_m,pred_h,pred_vh,brier
+S_test_1,test,VH,M,0.0,0.0004,0.7474,0.2522,0.0,0.07879
+S_test_2,test,M,VH,0.0,0.0004,0.7474,0.2522,0.0,0.078186
+S_train_1,train,VL,VH,0.2519,0.7476,0.0004,0.0,0.0,0.052901
+S_train_2,train,VH,VL,0.2519,0.7476,0.0004,0.0,0.0,0.079233
+S_train_3,train,VL,VL,0.9766,0.0234,0.0,0.0,0.0,0.118532
+S_train_4,train,VH,VH,0.0,0.0,0.0,0.0233,0.9767,0.106907
+S_train_5,train,VL,M,0.7468,0.2531,0.0,0.0,0.0,0.086088
+S_train_6,train,M,VL,0.7468,0.2531,0.0,0.0,0.0,0.041251

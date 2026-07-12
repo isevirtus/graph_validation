@@ -1,0 +1,9 @@
+scenario_id,AT,AC,ae_expert_vl,ae_expert_l,ae_expert_m,ae_expert_h,ae_expert_vh,split
+S_test_1,VH,M,0.0724,0.2173,0.2173,0.2463,0.2463,test
+S_test_2,M,VH,0.0746,0.1492,0.2238,0.2537,0.2985,test
+S_train_1,VL,VH,0.274,0.323,0.274,0.081,0.048,train
+S_train_2,VH,VL,0.172,0.259,0.345,0.172,0.052,train
+S_train_3,VL,VL,0.333,0.333,0.283,0.050,0.0,train
+S_train_4,VH,VH,0.0,0.055,0.273,0.309,0.364,train
+S_train_5,VL,M,0.2,0.3,0.34,0.1,0.06,train
+S_train_6,M,VL,0.357,0.357,0.179,0.107,0.0,train
